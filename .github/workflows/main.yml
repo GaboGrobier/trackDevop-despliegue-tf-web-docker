@@ -1,4 +1,4 @@
-name: terraform-web
+name: terraform-web1
 on:
   push:
     branches:
